@@ -1,4 +1,4 @@
-![comp](data\001_comp.png)
+![comp](data/001_comp.png)
 # kaggle-Predict-Student-Performance-from-Game-Play
 Predict Student Performance from Game Play コンペのリポジトリ
 
